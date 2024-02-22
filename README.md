@@ -1,7 +1,13 @@
 <h1 align="center">Hola 👋, me llamo Romina Valoriani</h1>
 <h3 align="center">Soy Full Stack Junior</h3>
 
-- Podés ver mis proyectos en: [https://frontend-ap-rv.web.app/](https://frontend-ap-rv.web.app/)
+Principalmente me encargo de:
+- Diseño y desarrollo de sitios web personalizados.
+- Desarrollo de interfaces de usuario responsivas.
+- Mantenimiento y actualización de sitios web existentes.
+- Consultoría en estrategias de diseño web centradas en el usuario.
+
+Podés ver mis proyectos en: [https://frontend-ap-rv.web.app/](https://frontend-ap-rv.web.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
